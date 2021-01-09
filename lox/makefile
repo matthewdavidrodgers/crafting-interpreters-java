@@ -19,7 +19,8 @@ CLASSES = \
 	Stmt.java \
 	LoxCallable.java \
 	LoxFunction.java \
-	Return.java
+	Return.java \
+	Resolver.java
 
 default:
 	$(CMP) $(JCFLAGS) $(addprefix src/,$(CLASSES))
