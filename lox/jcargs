@@ -1,0 +1,4 @@
+-g
+-sourcepath src
+-classpath classes
+-d classes
