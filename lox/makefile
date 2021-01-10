@@ -18,7 +18,9 @@ CLASSES = \
 	RuntimeError.java \
 	Stmt.java \
 	LoxCallable.java \
+	LoxClass.java \
 	LoxFunction.java \
+	LoxInstance.java \
 	Return.java \
 	Resolver.java
 
